@@ -8,7 +8,13 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://62fdaf6bed06d0483201e3ca--papaya-meerkat-063523.netlify.app/](https://62fdaf6bed06d0483201e3ca--papaya-meerkat-063523.netlify.app/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://utkarshbanka.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/utkarsh-k-keshari)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utkarshbanka)
+
+
+
 
 - 💬 Ask me about **JAVA/JavaScript**
 
