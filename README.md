@@ -14,7 +14,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/utkarshbanka)
 
 - 📄 Know about my experiences 
-My : [Resume](https://drive.google.com/file/d/1EqZZf0X6YP2UumAQrYkacG5aYwCQlogO/view?usp=sharing)
+My : [Resume](https://drive.google.com/file/d/1ntBKlLVp3ZHSIREiUWiGs1mPsZ6tSJ-o/view?usp=share_link)
 
 
 - 💬 Ask me about **JAVA/JavaScript**
